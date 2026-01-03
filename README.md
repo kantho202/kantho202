@@ -3,6 +3,17 @@
 </h1>
 <br>
 
+<h3 align="center">👨‍💻 Web Developer | React | MongoDB | Next.js (Learning)</h3>
+
+## About Me
+
+🎓 &nbsp;I'm currently not working and am looking for a frontend developer position.. \
+🌱 &nbsp;I'm on track with learning more about Next.js, and Software Architecture.\
+✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
+💬 &nbsp;Let’s connect over a quick Meet or Zoom call—pick a time that works best for you on my[Linkend](https://www.linkedin.com/in/dikshit-chakma/) and I’ll be there. 
+✉️ &nbsp;You can drop me an email at dikshitchakma2002@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
+
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -48,6 +59,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kantho202/kantho202/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kantho202/kantho202/output/pacman-contribution-graph.svg">
 </picture>
+
+<h3>Where to find me</h3>
+<p>
+ <a href="https://www.facebook.com/dikshitchakma">
+  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
+</a>
+ <a href="https://www.linkedin.com/in/dikshit-chakma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+ <a href="https://www.instagram.com/dikshitchakma/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 
 
  
