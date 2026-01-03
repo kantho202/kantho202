@@ -11,7 +11,25 @@
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com" target="_blank"> 
+  <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/>
+  </a>
+ <a href="https://nextjs.org" target="_blank"> 
+  <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/>
+  </a>
+ <a href="https://tailwindcss.com" target="_blank"> 
+ <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> 
+  </a>
+ <a href="https://firebase.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=Cloud-SS-DR-Firebase-FY26-global-gsem-1713590&utm_content=text-ad&utm_term=KW_firebase&gclsrc=aw.ds&gad_source=1&gad_campaignid=20100026061&gbraid=0AAAAADpUDOjy-wzOZHI6tU1qG27cIr8TU&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3Bo8OI0-n3ad2pHcMNAbP3ZDofpqXDxfTtKs7xSXpGt4FELTG9f3ZhoC958QAvD_BwE" target="_blank"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
+  </a>
+ <a href="https://code.visualstudio.com" target="_blank"> 
+ <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  </a>
+
+   
+
+ 
  </p>
 
  <div align="center">
