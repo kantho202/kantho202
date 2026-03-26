@@ -44,7 +44,7 @@
  </p>
 <h3> 📈 Progress in Pixels – Activity & Streaks</h3>
  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kantho202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kantho202&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -63,7 +63,7 @@
 
 ### Repository Stats & Streak:
 
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+<img src="https://streak-stats.demolab.com?user=kantho202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 | ------------- | ------------- |
 
 <br/>
