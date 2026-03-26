@@ -17,9 +17,12 @@
 <!-- find me -->
 <h3>Where to find me</h3>
 <p>
+  <a href="https://www.linkedin.com/in/dikshit-chakma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+ <a href="https://www.instagram.com/dikshitchakma/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
  <a href="https://www.facebook.com/dikshitchakma">
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
 </a>
+</p>
  <!-- language tool -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -73,13 +76,8 @@
 <img src="https://streak-stats.demolab.com?user=kantho202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 | ------------- | ------------- |
 
-<br/>
-
- <a href="https://www.linkedin.com/in/dikshit-chakma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
- <a href="https://www.instagram.com/dikshitchakma/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
 
 
 
-z
- 
+
+
