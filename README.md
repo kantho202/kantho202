@@ -48,18 +48,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kantho202&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/kantho202/kantho202/output/snake.svg" alt="Snake animation" />
 
 ###
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kantho202/kantho202/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kantho202/kantho202/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kantho202/kantho202/output/pacman-contribution-graph.svg">
-</picture>
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
+<!-- find me -->
 <h3>Where to find me</h3>
 <p>
  <a href="https://www.facebook.com/dikshitchakma">
@@ -69,12 +67,7 @@
  <a href="https://www.instagram.com/dikshitchakma/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 
-
+z
  
