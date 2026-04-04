@@ -64,8 +64,7 @@
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
 
 ### GitHub Statistics:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
@@ -74,7 +73,9 @@
 ### Repository Stats & Streak:
 
 <img src="https://streak-stats.demolab.com?user=kantho202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-| ------------- | ------------- |
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 
 
